@@ -1,0 +1,34 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.mariojorge.garconapp"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.mariojorge.garconapp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.mariojorge.garconapp"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "org.mariojorge.garconapp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.mariojorge.garconapp"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "PACKAGE_NAME": "org.sergiolopes.garconapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.sergiolopes.garconapp"
+        }
+    }
+}
